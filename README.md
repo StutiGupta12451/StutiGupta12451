@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently working with Machine Learning, Deep Learning And Computer Vision Technologies<br>I'm looking for data driven roles<br>LOoking forward for research work alsos<br>She/Her
+I'm currently working with Machine Learning, Deep Learning And Computer Vision Technologies<br>I'm looking for data driven roles<br>Looking forward for research work alsos<br>She/Her
 
 
 ## 🌐 Socials:
